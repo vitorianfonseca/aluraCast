@@ -8,7 +8,7 @@
 
 Projeto contruído num curso de HTML e CSS da Alura.
 
-[Clique aqui para acessar](https://aluraplay-git-main-vitorianfonseca.vercel.app/)
+[Clique aqui para acessar](https://alura-cast-git-main-vitorianfonseca.vercel.app/)
 
 
 
